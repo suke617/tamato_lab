@@ -1,2 +1,2 @@
-# tamato_lab
-### Hbikino-Tom
+# tomato_lab
+### Hibikino-Tom
